@@ -2,6 +2,8 @@
 
 * :seedling: Jag lär mig för nuvarande PHP, Git och Github
 * :computer: Jag jobbar just nu på en del olika egna projekt, kanske dyker de upp här snart 
+* :link: URL'en till min profil är följande: https://github.com/maha404/maha404.git
+
 <!--
 **maha404/maha404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
