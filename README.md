@@ -2,6 +2,7 @@
 
 * :seedling: Jag lär mig för nuvarande PHP, Git och Github
 * :computer: Jag jobbar just nu på en del olika egna projekt, kanske dyker de upp här snart 
+    * Nytt projekt: https://github.com/maha404/disappearingtext.git
 * :link: URL'en till min profil är följande: https://github.com/maha404/maha404.git
 
 <!--
