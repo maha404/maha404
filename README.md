@@ -1,6 +1,6 @@
 ### Välkommen!
 
-* :seedling: Jag lär mig för nuvarande PHP
+* :seedling: Jag lär mig för nuvarande PHP och SASS
 * :computer: Jag jobbar just nu på en del olika egna projekt, kanske dyker de upp här snart 
     * :star: Nytt projekt: https://github.com/maha404/disappearingtext.git (Under construction)
 
