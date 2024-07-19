@@ -1,8 +1,8 @@
-### Välkommen!
+### Välkommen! 👋
 
-* :seedling: Jag lär mig för nuvarande PHP och SASS
-* :computer: Jag jobbar just nu på en del olika egna projekt, kanske dyker de upp här snart 
-    * :star: Nytt projekt: https://github.com/maha404/disappearingtext.git (Under construction)
+* :construction_worker_woman: Jag jobbar just nu med min egna portfolio, den finns [här](https://mariahalvarsson.se/) om du vill ta en lookie look! 
+* :seedling: Jag lär mig för nuvarande mer om React med TypeScript!
+* :broom: Om du tycker mitt github är rörigt håller jag med! Jag håller på att städa lite men det tar tid!
 
 <!--
 **maha404/maha404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
